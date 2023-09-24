@@ -11,98 +11,38 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
+      "title": "Bank 2 Business Integration",
       "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-      "images": [
-        "images/portfolio/animal-shelter/p1.jpg",
-        "images/portfolio/animal-shelter/p2.jpg"
-      ],
+      "description": "I delivered this integration project for a leading real estate company. This involved exposing an API to the bank to validate and post transactions to the client's SAP ERP System. I built the API using the JBoss RESTEasy library and deployed on Apache Tomcat 9.X.X",
       "url": "",
+      "images": [],
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-java-plain",
+          "name": "Java"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-microsoftsqlserver-plain",
+          "name": "Microsoft SQL Server"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
-        }
-      ]
-    },
-    {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-react-original",
-          "name": "React"
+          "class": "devicon-java-plain",
+          "name": "JBoss RESTEasy"
         },
         {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
-        },
-        {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-tomcat-plain",
+          "name": "Apache Tomcat"
         }
       ]
     }
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
-    },
-    {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Suluhisho Systems Limited",
+      "title": "Senior Temenos T24 Application Specialist",
+      "years": "05.2023 - present",
+      "mainTech": ["T24 R17"],
+      "technologies": ["jBC", "T24"]
     }
   ]
 }
