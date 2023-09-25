@@ -14,8 +14,6 @@
       "title": "Bank 2 Business Integration",
       "startDate": "2020",
       "description": "I delivered this integration project for a leading real estate company. This involved exposing an API to the bank to validate and post transactions to the client's SAP ERP System. I built the API using the JBoss RESTEasy library and deployed on Apache Tomcat 9.X.X",
-      "url": "",
-      "images": [],
       "technologies": [
         {
           "class": "devicon-java-plain",
